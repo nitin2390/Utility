@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Truck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>vvvvv</Name>
+  <DateTime>5/11/2017</DateTime>
+  <FilePath>C:\Users\nidhi\Desktop\nitin.txt</FilePath>
+  <Weight>0</Weight>
+  <Deliminator>,</Deliminator>
+</Truck>
