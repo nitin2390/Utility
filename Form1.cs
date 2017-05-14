@@ -11,6 +11,7 @@ using System.Xml;
 using System.IO;
 using System.Xml.Linq;
 using System.Xml.Serialization;
+using System.Configuration;
 
 namespace Utility
 {
@@ -20,7 +21,7 @@ namespace Utility
         Truck objTruckOld = new Truck();
         ReadSerialPortData _readSerialPortData = new ReadSerialPortData();
 
-        const string filepath = "C:\\Users\\nidhi\\Documents\\visual studio 2012\\Projects\\Utility\\Utility\\xmlfile.xml";
+        string filepath = ConfigurationManager.AppSettings["XMLPATH"].ToString();
 
         bool flagExport = true;
         public Form1()

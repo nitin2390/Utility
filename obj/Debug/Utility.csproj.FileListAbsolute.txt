@@ -7,3 +7,11 @@ c:\users\nidhi\documents\visual studio 2012\Projects\Utility\Utility\obj\Debug\U
 c:\users\nidhi\documents\visual studio 2012\Projects\Utility\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
 c:\users\nidhi\documents\visual studio 2012\Projects\Utility\Utility\obj\Debug\Utility.exe
 c:\users\nidhi\documents\visual studio 2012\Projects\Utility\Utility\obj\Debug\Utility.pdb
+C:\nitin\Projetcs\Utility\Utility\bin\Debug\Utility.exe.config
+C:\nitin\Projetcs\Utility\Utility\obj\Debug\Utility.exe
+C:\nitin\Projetcs\Utility\Utility\obj\Debug\Utility.pdb
+C:\nitin\Projetcs\Utility\Utility\bin\Debug\Utility.exe
+C:\nitin\Projetcs\Utility\Utility\bin\Debug\Utility.pdb
+C:\nitin\Projetcs\Utility\Utility\obj\Debug\Utility.Form1.resources
+C:\nitin\Projetcs\Utility\Utility\obj\Debug\Utility.Properties.Resources.resources
+C:\nitin\Projetcs\Utility\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
